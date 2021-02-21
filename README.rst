@@ -15,10 +15,12 @@ notable project:
   and small space requirement. Used in paligo_ project.
 - godom_: Frontend library for DOM manipulation in Go, compiled to JavaScript
   via GopherJS_. Used in paligo_ project.
-- goef_: Embed file in Go code. Used to build offline SPA websites in paligo_
+- goef_: Embed files in Go code. Used to build offline SPA websites in paligo_
   project.
 - instago_: Download/access photos, videos, stories, story highlights, following
   and followers of Instagram.
+- igdlcrx_: Chrome extension to download Instagram posts and stories, written in
+  Go_.
 
 .. _Go: https://golang.org/
 .. _paligo: https://github.com/siongui/paligo
@@ -31,3 +33,4 @@ notable project:
 .. _GopherJS: https://github.com/gopherjs/gopherjs
 .. _goef: https://github.com/siongui/goef
 .. _instago: https://github.com/siongui/instago
+.. _igdlcrx: https://github.com/siongui/igdlcrx
