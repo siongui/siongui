@@ -11,12 +11,11 @@ notable project:
 - paligo_: `Pāli Dictionary`_ and `Pāli Tipiṭaka`_ websites implemented in Go_.
 - userpages_: my blog for sharing. Hosted on GitHub Pages.
 - `go-succinct-data-structure-trie`_: succinct data structure for fast lookup
-                                      and small space requirement. Used in
-                                      paligo_ project.
+  and small space requirement. Used in paligo_ project.
 - godom_: frontend library for DOM manipulation in Go, compiled to JavaScript
-          via GopherJS_. Used in paligo_ project.
+  via GopherJS_. Used in paligo_ project.
 - instago_: Download/access photos, videos, stories, story highlights, following
-            and followers of Instagram.
+  and followers of Instagram.
 
 .. _Go: https://golang.org/
 .. _paligo: https://github.com/siongui/paligo
