@@ -4,9 +4,8 @@ Siong-Ui Te (戴上為)
 .. image:: https://komarev.com/ghpvc/?username=siongui
   :alt: siongui
 
-Go_ as primary programming languages for both frontend and backend.
-
-notable project:
+Go_ as primary programming languages for both frontend and backend. Notable
+projects:
 
 - paligo_: `Pāli Dictionary`_ and `Pāli Tipiṭaka`_ SPA websites implemented in
   Go_, hosted on GitHub Pages.
@@ -21,6 +20,7 @@ notable project:
   and followers of Instagram.
 - igdlcrx_: Chrome extension to download Instagram posts and stories, written in
   Go_.
+- tiktokgo_: Download TikTok user avatar photo and video item.
 
 .. _Go: https://golang.org/
 .. _paligo: https://github.com/siongui/paligo
@@ -34,3 +34,4 @@ notable project:
 .. _goef: https://github.com/siongui/goef
 .. _instago: https://github.com/siongui/instago
 .. _igdlcrx: https://github.com/siongui/igdlcrx
+.. _tiktokgo: https://github.com/siongui/tiktokgo
