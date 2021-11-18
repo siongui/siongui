@@ -22,9 +22,13 @@ projects:
   Go_.
 - tiktokgo_: Download TikTok user avatar photo and video item.
 
-.. image:: https://github-readme-stats.vercel.app/api?username=siongui
+.. image:: https://github-readme-stats.vercel.app/api?username=siongui&show_icons=true&hide_border=true
    :target: https://github.com/anuraghazra/github-readme-stats
    :alt: Siong-Ui Te (戴上為)'s GitHub stats
+
+.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=siongui&show_icons=true&hide_border=true
+   :target: https://github.com/siongui
+   :alt: Siong-Ui Te (戴上為)'s Top Languages
 
 .. _Go: https://golang.org/
 .. _paligo: https://github.com/siongui/paligo
